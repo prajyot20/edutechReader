@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="E-Library">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_book"
+                    android:icon="@drawable/pdf"
+                    android:title="Books" />
+                <item
+                    android:id="@+id/nav_videolectures"
+                    android:icon="@drawable/ic_menu_slideshow"
+                    android:title="Video Lectures" />
+                <item
+                    android:id="@+id/nav_audio_lectures"
+                    android:icon="@drawable/ic_magnifying_glass"
+                    android:title="Audio Lectures" />
+
+                <item
+                    android:id="@+id/nav_quiz"
+                    android:icon="@drawable/ic_magnifying_glass"
+                    android:title="Take Quiz" />
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Other Material">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_newspaper"
+                    android:icon="@drawable/ic_magnifying_glass"
+                    android:title="News Papers" />
+                <item
+                    android:id="@+id/nav_jobOpening"
+                    android:icon="@drawable/ic_magnifying_glass"
+                    android:title="Job Openings" />
+                <item
+                    android:id="@+id/nav_interviewMaterial"
+                    android:icon="@drawable/ic_magnifying_glass"
+                    android:title="Interview Material" />
+                <item
+                    android:id="@+id/nav_eresources"
+                    android:icon="@drawable/ic_magnifying_glass"
+                    android:title="E-Resource" />
+                <item
+                    android:id="@+id/nav_emagzine"
+                    android:icon="@drawable/ic_magnifying_glass"
+                    android:title="E-Magzine" />
+                <item
+                    android:id="@+id/nav_wikisearch"
+                    android:icon="@drawable/ic_magnifying_glass"
+                    android:title="Wiki Search Engine" />
+
+            </group>
+        </menu>
+    </item>
+    <item android:title="Class Info">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_clg_gallery"
+                    android:icon="@drawable/ic_menu_gallery"
+                    android:title="Class Gallery" />
+
+                <item
+                    android:id="@+id/nav_placementcell"
+                    android:icon="@drawable/ic_magnifying_glass"
+                    android:title="Placement Cell" />
+                <item
+                    android:id="@+id/nav_department"
+                    android:icon="@drawable/ic_magnifying_glass"
+                    android:title="Departments" />
+                <item
+                    android:id="@+id/nav_academics"
+                    android:icon="@drawable/ic_magnifying_glass"
+                    android:title="Academics" />
+                <item
+                    android:id="@+id/nav_aboutColg"
+                    android:icon="@drawable/ic_menu_camera"
+                    android:title="About Us" />
+
+            </group>
+        </menu>
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Share" />
+                <item
+                    android:id="@+id/nav_privacy_policy"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Privacy Policy" />
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_menu_share"
+        android:title="Logout" />
+
+</menu>

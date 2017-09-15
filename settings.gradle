@@ -1,0 +1,1 @@
+include ':app', ':PDFLibrary', ':library', ':mylibrary'

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="actionbar_color">#bf360c</color>
+    <color name="drawer_arrow_second_color">#303f9f</color>
+    <color name="ldrawer_color">#ff9f8c97</color>
+    <color name="trans">#209f8c97</color>
+    <color name="backmain">#5fb0c9</color>
+    <color name="backmain2">#d67601</color>
+    <color name="tint">#FF4081</color>
+    <color name="textcol">#FFF</color>
+</resources>

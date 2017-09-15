@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Edutech-Reader</string>
+    <string name="title_activity_home_with_drawer">HomeActivityWithDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Clear List</string>
+    <string name="title_activity_webview">WebviewActivity</string>
+</resources>
